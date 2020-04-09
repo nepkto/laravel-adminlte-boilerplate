@@ -1,0 +1,3 @@
+[submodule "AdminLTE"]
+	path = AdminLTE
+	url = /home/anil/Projects/newsportal/public/AdminLTE/
